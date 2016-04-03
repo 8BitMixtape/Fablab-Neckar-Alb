@@ -1,5 +1,9 @@
 # Fablab-Neckar-Alb
 
+more info on the wiki: http://wiki.sgmk-ssam.ch/wiki/FabLab_Neckar-Alb_-_8bit_MixTape_Workshop
+
+contact: marc@dusseiller.ch
+
 # 8Bit MixTape parts placement
 ![8Bit-MixTape-Neckar-Alb](https://raw.githubusercontent.com/8BitMixtape/Fablab-Neckar-Alb/master/8Bit-MixTape/images/8Bit-MixTape_partLayout.jpg)
 
