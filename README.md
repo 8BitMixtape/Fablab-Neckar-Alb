@@ -2,6 +2,8 @@
 
 more info on the wiki: http://wiki.sgmk-ssam.ch/wiki/FabLab_Neckar-Alb_-_8bit_MixTape_Workshop
 
+about the event: https://www.fablab-neckar-alb.org/?tribe_events=workshop-8bit-mixtape
+
 contact: marc@dusseiller.ch
 
 # 8Bit MixTape parts placement
